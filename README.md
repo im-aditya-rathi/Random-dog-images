@@ -14,3 +14,39 @@ This is a simple web application that displays random dog images using HTML, Boo
 - **HTML**: Markup for structuring the page.
 - **Bootstrap**: Styling and layout framework for responsive design.
 - **Vanilla JavaScript**: For API calls and dynamic content updates.
+
+
+---
+<!-- Screenshots lists -->
+
+## Screenshots
+
+* ### Dog Image 1
+<table><kbd><p align="center">
+    <img src="https://github.com/im-aditya-rathi/Random-dog-images/blob/master/screenshots/1.png" alt="Image_1"/>
+</p></kbd></table>
+
+<br>
+
+* ### Dog Image 2
+<table><kbd><p align="center">
+    <img src="https://github.com/im-aditya-rathi/Random-dog-images/blob/master/screenshots/2.png" alt="Image_2"/>
+</p></kbd></table>
+
+<br>
+
+* ### Dog Image 3
+<table><kbd><p align="center">
+    <img src="https://github.com/im-aditya-rathi/Random-dog-images/blob/master/screenshots/3.png" alt="Image_3"/>
+</p></kbd></table>
+
+<br>
+
+* ### Dog Image 4
+<table><kbd><p align="center">
+    <img src="https://github.com/im-aditya-rathi/Random-dog-images/blob/master/screenshots/4.png" alt="Image_4"/>
+</p></kbd></table>
+
+<br>
+
+---
